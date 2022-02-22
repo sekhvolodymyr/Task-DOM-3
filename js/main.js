@@ -8,5 +8,5 @@ document.getElementById("myBtn").addEventListener("click", function() {
 });
 
 document.getElementById("myBtn").addEventListener("mouseout", function() {
-  d.innerHTML = `<p class="click">Mouse is not on me!</p><br>`;  
+  d.innerHTML = `<p class="notonme">Mouse is not on me!</p><br>`;  
 });
